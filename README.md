@@ -1,11 +1,11 @@
 
 
-# 🪄 xInevitable's Hyprland Setup 🪄
+# 🪄 protocol-8's Hyprland Setup 🪄
 
 
 
 <p align="center">
-  <img src="" alt="xInevitable" height="798px" width="152px">
+  <img src="" alt="protocol-8" height="798px" width="152px">
 </p>
 
 
@@ -46,14 +46,14 @@ Designed to:
 ### Step 1: Clone the repository (optional)
 
 ```
-git clone https://github.com/xInevitable/hyprland-setup.git
+git clone https://github.com/protocol-8/hyprland-setup.git
 cd hyprland-setup
 ```
 
 ### Step 2: Run the universal installer directly from GitHub
 
 ```
-bash -c "$(curl -fsSL https://github.com/xInevitable/hyprland-setup/raw/main/setup.sh)"
+bash -c "$(curl -fsSL https://github.com/protocol-8/hyprland-setup/raw/main/setup.sh)"
 ```
 
 This will:
