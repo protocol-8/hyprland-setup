@@ -10,7 +10,7 @@
 
 
 
-A **universal installer and configuration setup for Hyprland**. Fully automated, TTY-compatible, and fun! This script.sh installs essential apps, downloads this Hyprland configuration from GitHub.**
+A **universal installer and configuration setup for Hyprland**. Fully automated, TTY-compatible, and fun! The script.sh installs essential apps, downloads this Hyprland configuration from GitHub.**
 ---
 
 ## Table of Contents
@@ -130,6 +130,6 @@ Open source – freely modify and distribute your configurations.
 
 ---
 
-This is **all-in-one, ready to copy**, and includes:    
+This is **all-in-one, ready to copy**
 ---
 
